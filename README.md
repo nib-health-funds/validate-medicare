@@ -1,8 +1,8 @@
 # validate-medicare
 
-Validate Australian Medicare numbers.
+Medicare validation methods.
 
-Numbers must adhere to the following format:
+Australian Medicare Numbers must adhere to the following format:
 
 - 1 digit between 2 and 6
 - 7 digits
