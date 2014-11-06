@@ -1,0 +1,9 @@
+{
+  "name": "validate-medicare",
+  "scripts": ["index.js"],
+  "development": {
+    "dependencies": {
+      "component/assert": "*"
+    }
+  }
+}

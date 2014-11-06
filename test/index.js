@@ -1,5 +1,5 @@
 var assert    = require('assert');
-var validator = require('..');
+var validator = typeof(process) !== 'undefined' ? require('..') : require('validate-medicare');
 
 describe('validate-medicare', function() {
 
