@@ -1,0 +1,12 @@
+{
+  "name": "@nib/validate-medicare",
+  "version": "0.1.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-health-funds/validate-medicare.git"
+  },
+  "devDependencies": {
+    "assert": "*"
+  }
+}
